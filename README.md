@@ -10,7 +10,7 @@ npm run dev -- -p 2000
 yarn dev -p 2000
 ```
 
-Open [https://xtal.ir/userv](https://xtal.ir/userv) with your browser to see the result.
+Open [https://ituring.ir/userv](https://ituring.ir/userv) with your browser to see the result.
 
 You can start editing the page by modifying `components/Pages/index.tsx`. The page auto-updates as you edit the file.
 <br/>
